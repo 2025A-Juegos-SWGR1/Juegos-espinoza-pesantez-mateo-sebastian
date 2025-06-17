@@ -1,0 +1,12 @@
+[Llaves de Unity]
+/Library/
+/Temp/
+/obj/
+/Build/
+/Builds/
+/Logs/
+/MemoryCaptures/
+
+[Cache de paquetes]
+/Library/PackageCache/
+/Library/PackageManager/
